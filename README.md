@@ -1,1 +1,1 @@
-# Java_Pratical_Program
+# Pratice
